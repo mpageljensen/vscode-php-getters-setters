@@ -1,3 +1,11 @@
+# Brug getter og setter fra mappen phpGettersSetters
+> Filerne skal ligge i stien:
+> C:\Users\<dit_brugernavn>\AppData\Roaming\Code\User\phpGettersSetters
+>
+> I din settings.json i VS Code, sættes følgende ind:
+> "phpGettersSetters.templatesDir":  "C:/Users/<dit_brugernavn>/AppData/Roaming/Code/User/phpGettersSetters",
+
+
 # PHP getters and setters for Visual Studio Code
 
 > Fast generator of getters and setters for your PHP class properties.
